@@ -1,0 +1,80 @@
+.centered {
+  text-align: center;
+}
+
+.loginForm {
+  width: 300px;
+  border: 1px solid #c4e0f1;
+  padding: 10px;
+  margin: 0 auto;
+}
+.loginForm .row {
+  padding: 5px 0;
+}
+.loginForm .row label {
+  width: 80px;
+  float: left;
+  line-height: 30px;
+  text-align: right;
+  color: #475869;
+}
+.loginForm .row input {
+  display: block;
+  margin-left: 100px;
+  padding: 4px 6px;
+  height: 30px;
+  width: 170px;
+}
+.loginForm .errors {
+  margin-left: 5px;
+  color: #881a10;
+  font-size: 14px;
+}
+.loginForm button {
+  margin-left: 10px;
+}
+
+.page-header h1 {
+  padding: 10px;
+  color: #475869;
+}
+.page-header label {
+  padding: 10px;
+  float: left;
+  text-align: left;
+  color: #475869;
+
+}
+
+.messageComposer {
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.messageComposer .form-group button {
+  float: right;
+}
+
+.questionList {
+  border: 1px solid #c4e0f1;
+  padding: 10px;
+  margin: 30px;
+  cursor: pointer;
+}
+.answerList {
+  border: 1px solid #c4e0f1;
+  padding: 10px;
+  margin: 30px;
+  margin-left: 60px;
+  margin-right: 15px;
+}
+p.data   {
+  color: #999;
+  text-align: right;
+}
+
+.answerSection .question {
+  border: 2px solid #c4e0f1;
+  padding: 10px;
+  margin: 15px;
+
+}
